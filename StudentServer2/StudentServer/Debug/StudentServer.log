@@ -1,0 +1,5 @@
+﻿  StudentCtr.cpp
+c:\users\phung\onedrive\documents\visual studio 2015\projects\studentserver2\studentserver\studentctr.cpp(358): error C2065: 'st': undeclared identifier
+  Main.cpp
+c:\users\phung\onedrive\documents\visual studio 2015\projects\studentserver2\studentserver\main.cpp(64): warning C4101: 'mesSend': unreferenced local variable
+  Generating Code...
